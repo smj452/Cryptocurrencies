@@ -20,6 +20,7 @@ Raw csv data is filtered to retrieve:
 
 Finally a new DataFrame is created that holds the cryptocurrency names.
 
+## Results
 
 ### Data with dummy variables for Algorithm and ProofType using get_dummies() method
 

@@ -3,7 +3,7 @@
 ## Project Overview
 
 In this project unsupervised clustering algorithm is used to categorise cryptocurrencies from the ```crypto_data.csv``` which is retrieved from 
-![CryptoCompare](https://www.cryptocompare.com/) website.
+[CryptoCompare](https://www.cryptocompare.com/) website.
 
 The coins are categorized based on :
 - Coin Name 
